@@ -4,8 +4,11 @@
 
 ## 🐈 About Me
 
-<div style="margin: 10px; display: inline; float: right">
-<img height="150" src="./selfie.svg" style="outline: 5px solid #F7C31A; border-radius: 50%; background: #3E60B8" /></div>
+<div align="center">
+
+![avatar of me](./selfie.svg)
+
+</div>
 
 I'm a **Front-End Developer** with roots in Poland, based in **the Netherlands**. My background is in marketing, specifically in the music and video game industries, but I've decided to swap Instagram campaigns for cozy VSCode sessions and take a wild leap into Front-End Development. I'm currently on a self-study mission to reach the pinnacle of dev greatness, or at least be the best in the Netherlands... no big deal! 💪
 
